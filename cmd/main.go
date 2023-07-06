@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/sergoslav/go-question-1/pkg/controller"
-	"github.com/sergoslav/go-question-1/pkg/repository"
+	"github.com/sergoslav/go-question-1/internal/controller"
+	"github.com/sergoslav/go-question-1/internal/repository"
 )
 
 func main() {
